@@ -1,0 +1,6 @@
+[submodule "yinaf"]
+	path = yinaf
+	url = https://github.com/nicklynj/yinaf.git
+[submodule "rocket"]
+	path = rocket
+	url = https://github.com/nicklynj/rocket.git
